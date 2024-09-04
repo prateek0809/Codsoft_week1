@@ -28,7 +28,7 @@ The dataset used in this project is the famous Titanic dataset, which is availab
 
 ## Project Structure
 
-- `Titanic_Survival_Prediction.ipynb`: The main Jupyter Notebook containing the code for data preprocessing, feature engineering, model training, and evaluation.
+- `Titanic_Survival_prediction.ipynb`: The main Jupyter Notebook containing the code for data preprocessing, feature engineering, model training, and evaluation.
 - `tested/`: Directory containing the dataset (CSV file).
 - `README.md`: This file, provides an overview of the project.
 
@@ -46,7 +46,7 @@ The dataset used in this project is the famous Titanic dataset, which is availab
 
 3. Open the Jupyter Notebook:
     ```bash
-    jupyter notebook Titanic_Survival_Prediction.ipynb
+    jupyter notebook Titanic_Survival_prediction.ipynb
     ```
 
 4. Run the cells in the notebook to see the analysis and model predictions.
