@@ -6,7 +6,7 @@
 - [Technologies Used](#Technologies-Used)
 - [Project Structure](#Project-Structure)
 - [Installation](#Installation)
-- [Models Used](#Models-used)
+- [Model Used](#Model-used)
 - [Results](#Results)
 
 ## Project Overview
